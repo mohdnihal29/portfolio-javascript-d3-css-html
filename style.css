@@ -57,12 +57,14 @@ body {
   text-transform: uppercase;
   color: var(--color-primary);
   margin-bottom: 1rem;
+  /* margin-left: -23rem; */ */
 }
 
 .section__header {
   font-size: 4rem;
   line-height: 1.3;
   font-weight: 500;
+  /* margin-left: -23rem; */
 }
 
 .btn {
@@ -131,8 +133,9 @@ img {
 }
 
 .nav__logo {
-  height: 4.5rem;
+  height: 5rem;
   transition: all 0.3s;
+  margin-top: 1rem;
 }
 
 .nav__links {
@@ -181,13 +184,13 @@ img {
 
 .header__title {
   flex: 1;
-
   max-width: 115rem;
   display: grid;
-  grid-template-columns: 3fr 2fr;
+  grid-template-columns: 10fr -8fr;
   row-gap: 3rem;
   align-content: center;
   justify-content: center;
+  /* margin-top: 5rem; */
 
   align-items: start;
   justify-items: start;
@@ -230,9 +233,9 @@ h4 {
 
 /* FEATURES */
 .features {
-  display: grid;
+   display: grid; 
   grid-template-columns: 1fr 1fr;
-  gap: 4rem;
+  gap: 1em;
   margin: 0 12rem;
 }
 
