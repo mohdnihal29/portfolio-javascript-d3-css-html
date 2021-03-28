@@ -233,10 +233,9 @@ h4 {
 
 /* FEATURES */
 .features {
-   display: grid; 
-  grid-template-columns: 1fr 1fr;
-  gap: 1em;
-  margin: 0 12rem;
+  display: flex; 
+  flex-direction: column;
+  align-items: center;
 }
 
 .features__img {
