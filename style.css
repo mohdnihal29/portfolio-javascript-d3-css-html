@@ -357,13 +357,13 @@ h4 {
 }
 
 .operations__icon--1 {
-  background-color: var(--color-secondary-opacity);
+  background-color: white;
 }
 .operations__icon--2 {
-  background-color: var(--color-primary-opacity);
+  background-color: white;
 }
 .operations__icon--3 {
-  background-color: var(--color-tertiary-opacity);
+  background-color: white;
 }
 .operations__icon--1 svg {
   fill: var(--color-secondary-darker);

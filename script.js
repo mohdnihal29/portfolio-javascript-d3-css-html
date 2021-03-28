@@ -266,7 +266,7 @@ imgTargets.forEach(img => imgObserver.observe(img));
 // vs
 
 const MARGIN = { LEFT: 300, RIGHT: 10, TOP: 100, BOTTOM: 100 };
-const WIDTH = 1500 - MARGIN.LEFT - MARGIN.RIGHT;
+const WIDTH = 1200 - MARGIN.LEFT - MARGIN.RIGHT;
 const HEIGHT = 700 - MARGIN.TOP - MARGIN.BOTTOM;
 
 let flag = true;
