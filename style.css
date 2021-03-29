@@ -676,7 +676,7 @@ h4 {
 }
 
 svg {
-  margin-left: 10rem;
+  margin-left: 5rem;
   scale: 0rem;
 }
 
@@ -684,7 +684,17 @@ svg {
   color: red;
 
 } */
+/*       
 
+
+
+
+
+
+
+
+
+*/
 @media (max-width: 300px) {
   p {
     font-size: 1rem;

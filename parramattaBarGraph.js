@@ -1,6 +1,6 @@
 const MARGIN = { LEFT: 300, RIGHT: 130, TOP: 100, BOTTOM: 170 };
 const WIDTH = 800 - MARGIN.LEFT - MARGIN.RIGHT;
-const HEIGHT = 700 - MARGIN.TOP - MARGIN.BOTTOM;
+const HEIGHT = 600 - MARGIN.TOP - MARGIN.BOTTOM;
 
 // /////////////////////////////1
 
