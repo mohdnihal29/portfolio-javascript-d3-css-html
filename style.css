@@ -679,7 +679,7 @@ h4 {
 }
 
 svg {
-  margin-left: 1rem;
+  margin-left: -10rem;
   scale: 0rem;
 
 }
@@ -689,16 +689,34 @@ svg {
 
 } */
 /*       
-
-
-
-
-
-
-
-
-
 */
+@media (min-width: 1400px) {
+  svg {
+    margin-left: -7rem;
+    scale: 0rem;
+  
+  }
+}
+
+
+
+
+
+@media (min-width: 2400px) {
+  svg {
+    margin-left: 20rem;
+    scale: 0rem;
+  
+  }
+}
+
+
+
+
+
+
+
+
 @media (max-width: 300px) {
   p {
     font-size: 1rem;
